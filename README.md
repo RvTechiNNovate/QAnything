@@ -187,7 +187,7 @@ modelscope: https://modelscope.cn/models/netease-youdao/QAnything
 
 wisemodel: https://wisemodel.cn/models/Netease_Youdao/qanything
 
-huggingfase: https://huggingface.co/netease-youdao/QAnything
+huggingface: https://huggingface.co/netease-youdao/QAnything
 
 </details>
 
